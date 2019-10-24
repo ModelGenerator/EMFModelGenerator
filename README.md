@@ -1,2 +1,2 @@
-# EMFModelGenerator
-# under development
+# EMF Model Generator
+(... Under Development ...)
