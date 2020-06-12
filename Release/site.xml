@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/org.eclipse.emf.nas.repair.feature_1.0.0.202004241251.jar" id="org.eclipse.emf.nas.repair.feature" version="1.0.0.202004241251">
-      <category name="nas.model.repair.generation"/>
-   </feature>
-   <category-def name="nas.model.repair.generation" label="EMF Model Repair and Generation"/>
-</site>
