@@ -1,2 +1,2 @@
 # EMF Model Generator
-(... Under Development ...)
+Please see the Wiki page
